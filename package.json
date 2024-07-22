@@ -9,7 +9,7 @@
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite build; vite preview --host",
     "deploy": "gh-pages -d dist",
-    "homepage": "https://github.com/abdelrazekrizk/e-plantShopping"
+    "homepage": "https://github.com/abdelrazekrizk/e-plantShopping/"
   },
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.3",
